@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Software Development/Visual Studio 2019/Projects/Algorithms/out/build/x64-Debug/Algorithms/CMakeFiles/Algorithms.dir/embed.manifest"
