@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wwestlake/Projects/knuth/Algorithms/MMIX/mmix.cpp
+mmix.h
+/home/wwestlake/Projects/knuth/Algorithms/MMIX/mmix.h
+iostream
+-
+
+/home/wwestlake/Projects/knuth/Algorithms/MMIX/mmix.h
+

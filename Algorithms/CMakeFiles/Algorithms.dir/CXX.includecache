@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/Algorithms.cpp
+Algorithms.h
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/Algorithms.h
+GreatestCommonDevisor.h
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/GreatestCommonDevisor.h
+
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/Algorithms.h
+iostream
+-
+
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/GreatestCommonDevisor.h
+

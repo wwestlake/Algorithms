@@ -1,0 +1,8 @@
+/home/wwestlake/Projects/knuth/Algorithms/CMakeFiles/rebuild_cache.dir
+/home/wwestlake/Projects/knuth/Algorithms/CMakeFiles/edit_cache.dir
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/CMakeFiles/rebuild_cache.dir
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/CMakeFiles/Algorithms.dir
+/home/wwestlake/Projects/knuth/Algorithms/Algorithms/CMakeFiles/edit_cache.dir
+/home/wwestlake/Projects/knuth/Algorithms/MMIX/CMakeFiles/rebuild_cache.dir
+/home/wwestlake/Projects/knuth/Algorithms/MMIX/CMakeFiles/mmix.dir
+/home/wwestlake/Projects/knuth/Algorithms/MMIX/CMakeFiles/edit_cache.dir
