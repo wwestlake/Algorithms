@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/Algorithms.dir/Algorithms.cpp.o  -o Algorithms 
+/usr/bin/c++   -std=c++14 -g   CMakeFiles/Algorithms.dir/Algorithms.cpp.o  -o Algorithms 

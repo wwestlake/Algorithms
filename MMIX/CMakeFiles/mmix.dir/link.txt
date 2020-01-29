@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/mmix.dir/mmix.cpp.o  -o mmix 
+/usr/bin/c++   -std=c++14 -g   CMakeFiles/mmix.dir/mmix.cpp.o  -o mmix 
